@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  subject: MyString
+  to_field: MyString
+  from_field: MyString
+  headers: MyString
+  body: MyText
+
+two:
+  subject: MyString
+  to_field: MyString
+  from_field: MyString
+  headers: MyString
+  body: MyText
